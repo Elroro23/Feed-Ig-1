@@ -1,0 +1,41 @@
+.Post-Header{
+    display:flex;
+    justify-content:space-between;
+    padding: 10px;
+    font-size: 20px;
+}
+.Post{
+    margin:0 auto;
+    width: 400px;
+    align-content: center;
+    margin-top: 40px;
+    background-color: white;
+    border: 2px solid black;
+
+}
+.Post-Img{
+    width: 100%;
+}
+body{
+    background-color: blanchedalmond;
+}
+.Post-Tittle{
+    font-weight: bold;
+}
+.Comment{
+    padding: 10px;
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    
+
+}
+.Header1{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+    margin-bottom: -40px;
+    
+}
+
